@@ -1,0 +1,49 @@
+import { Circle, CurrencyRupee } from "@mui/icons-material";
+
+export const baristaImg = [
+  {
+    img: "./images/img1.jpg",
+    icon: <Circle />,
+    title: "Java Chip Frappuccino",
+    headingH5: "tall (53ml)",
+    rupeeIcon: <CurrencyRupee />,
+    rupee: "209.16",
+    btn: "Add Item",
+  },
+  {
+    img: "./images/img2.jpg",
+    icon: <Circle />,
+    title: "Cold coffee",
+    headingH5: "tall (53ml)",
+    rupeeIcon: <CurrencyRupee />,
+    rupee: "249.48",
+    btn: "Add Item",
+  },
+  {
+    img: "./images/img3.jpg",
+    icon: <Circle />,
+    title: "Vanila Sweet Cream Cold Brew",
+    headingH5: "tall (53ml)",
+    rupeeIcon: <CurrencyRupee />,
+    rupee: "219.16",
+    btn: "Add Item",
+  },
+  {
+    img: "./images/img4.jpg",
+    icon: <Circle />,
+    title: "Signature Hot Choose",
+    headingH5: "tall (53ml)",
+    rupeeIcon: <CurrencyRupee />,
+    rupee: "259.16",
+    btn: "Add Item",
+  },
+  {
+    img: "./images/img5.jpg",
+    icon: <Circle />,
+    title: "Caffe Latte",
+    headingH5: "tall (53ml)",
+    rupeeIcon: <CurrencyRupee />,
+    rupee: "259.16",
+    btn: "Add Item",
+  },
+];
