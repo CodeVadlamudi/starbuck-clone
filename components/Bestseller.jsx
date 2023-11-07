@@ -4,7 +4,7 @@ import {orderDetails} from "../data";
 function Bestseller() {
   return (
     <section className="relative">
-      <div className="max-w-screen-xl mx-auto p-10">
+      <div className="max-w-screen-xl mx-auto px-5 sm:p-10">
         <h2 className="text-2xl font-bold mb-4">Bestseller</h2>
         <p className="text-base sm:text-lg">
           Everyone's favorite Starbucks put together in a specially curated
